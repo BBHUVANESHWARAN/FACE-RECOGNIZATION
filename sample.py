@@ -1,6 +1,6 @@
 #simple opperation
 
-a=10
+a=15
 b=4
 c=a+b
 print(c)
